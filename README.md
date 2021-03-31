@@ -1,7 +1,7 @@
 # COMPSCI4077-WebScienceH
 2021 COMPSCI4077 web science coursework (Level H)
 
-The repository consists of 3 folders:
+The repository consists of 4 folders:
 
 - Report
 - Code
