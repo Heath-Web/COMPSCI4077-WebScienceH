@@ -12,9 +12,8 @@ The _Code_ folder contains the python files implemented to carry out all tasks r
 
 In order to be able to run the code:
 
-1. cd Code
+1. `cd Code`
 2. Install dependencies by running: `pip install -r requirements.txt`
 3. To run Streaming API Crawler run: `python StreamCrawler.py`
 4. To run Data Grouping run : `python DataGrouping.py`
 5. To run Hybrid Architecture Crawler run: `python HybridCrawler.py`
-
