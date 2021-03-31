@@ -1,0 +1,4 @@
+tweepy==3.10.0
+pymongo==3.11.3
+stanfordcorenlp==3.9.1.1
+emoji==1.2.0
