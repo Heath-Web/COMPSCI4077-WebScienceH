@@ -5,9 +5,10 @@ The repository consists of 3 folders:
 
 - Report
 - Code
-- Sample data and multimedia
+- Sample data 
+- Multimedia
 
-The  Code folder contains the python files implemented to carry out all tasks required. Sample data contents...
+The  Code folder contains the python files implemented to carry out all tasks required. There are two json format data set in `Sample data and multimedia` folder, which is collected by Streaming Crawler and Hybrid Architecture Crawler respectively. The Multimedia folder involves the multimedia downloaded in Streaming Crawler. 
 
 In order to be able to run the code:
 
