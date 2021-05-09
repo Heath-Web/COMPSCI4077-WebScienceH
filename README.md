@@ -1,5 +1,6 @@
 # COMPSCI4077-WebScienceH
 2021 COMPSCI4077 web science coursework (Level H)
+This porject is a Twitter crawler including Streaming API clawler and hybrid architecture (Streaming + REST API )crawler. Single pass clustering algorithm with cosine similarity was implemented here for grouping twitters collected from Streaming API. The content/topic that hybrid architecture crawler mainly forcus on is based on the growth speed of the cluster in a specific time period, including hashtags, user mentions, geo location and terms.
 
 The repository consists of 4 folders:
 
